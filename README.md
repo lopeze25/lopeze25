@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a student at College of Dupage with an interest in computer programming and software deveolpment. 
+I am currently a student at College of Dupage with an interest in computer science. 
 <!-- **lopeze25/lopeze25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
