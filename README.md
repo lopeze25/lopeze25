@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ezekiel Lopez. This repository showcases my some of personal interests, with a focus on embedded systems, statistical machine learning, and algorithm design.
+My name is Ezekiel Lopez. This repository showcases my some of my personal interests, with a focus on embedded systems, statistical machine learning, and algorithm design.
 
 I'm currently working on my portfolio back tester and some FPGA and quantum mechanics projects. 
 
