@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Ezekiel Lopez. This is a personal github of that showcases some of my interests, with a focus on embedded systems, systems programming, statistical machine learning, and algorithm design. 
+My name is Ezekiel Lopez. This is my personal GitHub that showcases some of my interests, with a focus on embedded systems, systems programming, statistical machine learning, and algorithm design.
 
-I'm currently working on various snippets of code and complied projects for my portfolio back tester and some FPGA and quantum mechanics projects. 
+I'm currently working on various snippets of code and compiled projects for my portfolio back tester and some FPGA and quantum mechanics projects. 
 
 <!-- **lopeze25/lopeze25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
