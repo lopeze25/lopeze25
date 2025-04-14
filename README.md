@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -MySQL
 -Python
--Java
+-Javailll
 -Springboot 
 
 ### 👯 I’m looking to collaborate on ...
