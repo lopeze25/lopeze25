@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -Springboot 
 
 ### 👯 I’m looking to collaborate on ...
-test eedit
+test edit
 -Backend Development Projects
 
 ### 💬 Ask me about ...
