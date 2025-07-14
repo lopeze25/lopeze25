@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ezekiel Lopez. I am an Electrical Engineering Student at UIUC. This is my personal GitHub that showcases some of my interests, with a focus on embedded systems, systems programming, statistical machine learning, and algorithm design.
+My name is Ezekiel Lopez. I am an Electrical Engineering Student at UIUC. This is my personal GitHub that showcases some of my many interests, with a focus on embedded systems, systems programming, statistical machine learning, and algorithm design.
 
 I'm currently working on various snippets of code and compiled projects for my portfolio back tester and some FPGA and quantum mechanics projects. 
 
